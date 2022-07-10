@@ -1,0 +1,189 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+
+.orange {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 35%;
+    padding-left: 10%;
+
+}
+.half-width-about {
+    width: 50%;
+    padding-left: 20%;
+    
+
+}
+.half-width-about h2{
+    font-family:'Domine',serif;
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.half-width-about p{
+  padding-left: 50px;
+}
+
+.half-width img {
+    width: 100%;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.sa{
+    padding-top: 100px;
+}
+.half-width-about-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    margin-left: 50px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+
+.about-me {
+    
+    background-image: url(7.jpg);
+    background-repeat: no-repeat;
+   
+   
+}
+.girl-img{
+    display: flex;
+    width: 20%;
+    padding: 40px 0 0 40px;
+   
+
+}
+
+.experienc-item {
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 30px gray;
+
+    
+}
+.experienc-items {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+   
+    
+    
+
+}
+.experienc-we{
+    width: 50%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    display: flex;
+    margin-left: 30%;
+    justify-items: center;
+    justify-content: center;
+
+}
+.df{
+    
+    text-align: center;
+    justify-content: space-around;
+  
+   
+   
+}
+.df p{
+    
+    padding-left: 35px;
+    margin: auto;
+   
+}
+.df h2{
+    
+    padding-top: 05px;
+    margin: auto;
+    
+}
+.experienc-items p{
+      margin-top: 0;
+}
+
+
+.experience-area {
+   
+    justify-content: center;
+    justify-items: center;
+
+}
+
+#full-stack {
+    border-left: 7px solid tomato;
+
+}
+
+#beginner-web {
+    border-left: 7px solid blue;
+}
+
+
+footer{
+    text-align:center;
+    background-color: black;
+    width: 100%;
+    height:300px;
+
+
+}
+.frs{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: gray;
+}
+footer p{
+    padding-top: 20px;
+     color:white;
+     font-family:'Montserrat', sans-serif;
+     
+    
+}
+footer h3{
+    
+    padding-top: 100px;
+    color:white;
+}
